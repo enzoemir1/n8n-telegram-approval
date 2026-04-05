@@ -138,6 +138,8 @@ Swap `gpt-4o-mini` for any OpenAI-compatible model. The workflow works with any 
 ## Also by Automatia BCN
 
 - **[autoflow-n8n-workflows](https://github.com/enzoemir1/autoflow-n8n-workflows)** — 8 free AI automation workflows for n8n
+- **[n8n-prompt-library](https://github.com/enzoemir1/n8n-prompt-library)** — 20 production-ready AI prompts for n8n workflows
+- **[n8n-cost-calculator](https://github.com/enzoemir1/n8n-cost-calculator)** — Estimate AI workflow costs before you build · [Live Demo](https://enzoemir1.github.io/n8n-cost-calculator/)
 - **[free-ai-prompts](https://github.com/enzoemir1/free-ai-prompts)** — 90 free AI prompts for ChatGPT, Gemini & more
 - **[All Products](https://automatiabcn.gumroad.com)** — Premium n8n workflows & SaaS boilerplates
 
